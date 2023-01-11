@@ -1,0 +1,24 @@
+{
+  "name": "random-string-m-edu",
+  "version": "1.0.0",
+  "description": "Random string messages through the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnakeA117/random-string-m-edu.git"
+  },
+  "author": "Eduardo Diaz <ltdrake1984@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SnakeA117/random-string-m-edu/issues"
+  },
+  "homepage": "https://github.com/SnakeA117/random-string-m-edu#readme",
+  "bin": {
+    "random-string-m-edu":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
+
