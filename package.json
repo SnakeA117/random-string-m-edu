@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/SnakeA117/random-string-m-edu#readme",
   "bin": {
-    "random-string-m-edu":"./bin/global.js"
+    "random-string-m-edu": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
-
